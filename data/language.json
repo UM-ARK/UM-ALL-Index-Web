@@ -1,128 +1,107 @@
 {
-    "copyright":
-    {
-        "en":"Copyright &copy; 2022.ARK All rights reserved.",
-        "zh":"版權所有&copy;2022.ARK All",
-        "ch":"版权所有&copy;2022.ARK All"
+    "copyright": {
+        "en": "Copyright &copy; 2022-2023. ARK All rights reserved.",
+        "zh": "版權所有&copy;2022-2023. ARK All",
+        "ch": "版权所有&copy;2022-2023. ARK All"
     },
-    "home":
-    {
-        "en":"home",
-        "zh":"主頁",
-        "ch":"主页"
+    "home": {
+        "en": "home",
+        "zh": "主頁",
+        "ch": "主页"
     },
-    "about":
-    {
-        "en":"About",
-        "zh":"關於",
-        "ch":"关于"
+    "about": {
+        "en": "About",
+        "zh": "關於",
+        "ch": "关于"
     },
-    "services":
-    {
-        "en":"We Services",
-        "zh":"我們的服務",
-        "ch":"我们的服务"
+    "services": {
+        "en": "We Services",
+        "zh": "我們的服務",
+        "ch": "我们的服务"
     },
-    "pricing":
-    {
-        "en":"We pricing",
-        "zh":"我們的價值",
-        "ch":"我们的价值"
-    },   
-    "contact":
-    {
-        "en":"Contact us",
-        "zh":"聯繫我們",
-        "ch":"联系我们"
+    "pricing": {
+        "en": "We pricing",
+        "zh": "我們的價值",
+        "ch": "我们的价值"
     },
-    "download":
-    {
-        "en":"Download",
-        "zh":"下載",
-        "ch":"下载"
+    "contact": {
+        "en": "Contact us",
+        "zh": "聯繫我們",
+        "ch": "联系我们"
     },
-    "appsdownload":
-    {
-        "en":"APPs Download",
-        "zh":"應用程式下載",
-        "ch":"应用下载"
+    "download": {
+        "en": "Download",
+        "zh": "下載",
+        "ch": "下载"
     },
-    "introduction":
-    {
-        "en":"Why not all in one? Aspiring to become UMer's campus information app!",
-        "zh":"Why not all in one? 立志成為UMer人手一個的校園資訊APP!",
-        "ch":"Why not all in one? 立志成为UMer人手一个的校园资讯APP!"
+    "appsdownload": {
+        "en": "APPs Download",
+        "zh": "應用程式下載",
+        "ch": "应用下载"
     },
-    "plice":
-    {
-        "en":"University of Macau Avenida da Universidade Taipa, Macau, China",
-        "zh":"澳門大學 氹仔大馬路，澳門，中國",
-        "ch":"澳门大学 凼仔大马路，澳门，中国"
+    "introduction": {
+        "en": "Why not all in one? Aspiring to become UMer's campus information app!",
+        "zh": "Why not all in one? 立志成為UMer人手一個的校園資訊APP!",
+        "ch": "Why not all in one? 立志成为UMer人手一个的校园资讯APP!"
     },
-    "quicklinks":
-    {
-        "en":"Quick Links",
-        "zh":"快速鏈接",
-        "ch":"快速链接"
+    "plice": {
+        "en": "University of Macau Avenida da Universidade Taipa, Macau, China",
+        "zh": "澳門大學 氹仔大馬路，澳門，中國",
+        "ch": "澳门大学 凼仔大马路，澳门，中国"
     },
-    "what2reg":
-    {
-        "en":"What2Reg",
-        "zh":"澳大選咩課",
-        "ch":"澳大选咩课"
+    "quicklinks": {
+        "en": "Quick Links",
+        "zh": "快速鏈接",
+        "ch": "快速链接"
     },
-    "umbbs":
-    {
-        "en":"UM BBS",
-        "zh":"澳大討論區",
-        "ch":"澳大讨论区"
+    "what2reg": {
+        "en": "What2Reg",
+        "zh": "澳大選咩課",
+        "ch": "澳大选咩课"
     },
-    "newsletter":
-    {
-        "en":"Quick Login",
-        "zh":"快速登錄",
-        "ch":"快速登錄"
+    "umbbs": {
+        "en": "UM BBS",
+        "zh": "澳大討論區",
+        "ch": "澳大讨论区"
     },
-    "submit":
-    {
-        "en":"Submit",
-        "zh":"提交",
-        "ch":"提交"
+    "newsletter": {
+        "en": "Quick Login",
+        "zh": "快速登錄",
+        "ch": "快速登錄"
     },
-    "activity":
-    {
-        "en":"Activity",
-        "zh":"活動",
-        "ch":"活动"
+    "submit": {
+        "en": "Submit",
+        "zh": "提交",
+        "ch": "提交"
     },
-    "bulletin":
-    {
-        "en":"Bulletin",
-        "zh":"公告",
-        "ch":"公告"
+    "activity": {
+        "en": "Activity",
+        "zh": "活動",
+        "ch": "活动"
     },
-    "useragreement":
-    {
-        "en":"User Agreement",
-        "zh":"用戶協議",
-        "ch":"用户协议"
+    "bulletin": {
+        "en": "Bulletin",
+        "zh": "公告",
+        "ch": "公告"
     },
-    "qa":
-    {
-        "en":"Question and Answer",
-        "zh":"常見問題",
-        "ch":"常见问题"
+    "useragreement": {
+        "en": "User Agreement",
+        "zh": "用戶協議",
+        "ch": "用户协议"
     },
-    "registerAccountNotice":
-    {
-        "en":"To register a society account, please see Question and Answer (quesiton no.1) :",
-        "zh":"如需註冊社團帳號，請閱常見問題第一點",
-        "ch":"如需註册社团帐号，请阅常见问题第一点"
+    "qa": {
+        "en": "Question and Answer",
+        "zh": "常見問題",
+        "ch": "常见问题"
     },
-    "tutorial":
-    {
-        "en":"Organization account tutorial with graphics",
-        "zh":"組織賬號圖文教學",
-        "ch":"组织账号图文教学"
+    "registerAccountNotice": {
+        "en": "To register a society account, please see Question and Answer (quesiton no.1) :",
+        "zh": "如需註冊社團帳號，請閱常見問題第一點",
+        "ch": "如需註册社团帐号，请阅常见问题第一点"
+    },
+    "tutorial": {
+        "en": "Organization account tutorial with graphics",
+        "zh": "組織賬號圖文教學",
+        "ch": "组织账号图文教学"
     }
 }
