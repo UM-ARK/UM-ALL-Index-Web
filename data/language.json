@@ -103,5 +103,10 @@
         "en": "Organization account tutorial with graphics",
         "zh": "組織賬號圖文教學",
         "ch": "组织账号图文教学"
+    },
+    "android": {
+        "en": "Android, HUAWEI APK",
+        "zh": "安卓(華為)安裝包(手動下載更新)",
+        "ch": "安卓(华为)安装包(手动下载更新)"
     }
 }
